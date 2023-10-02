@@ -1,0 +1,13 @@
+.active {
+    color: pink;
+    font-size: 30px;
+  }
+  
+.link a.active {
+    color: black;
+    font-size: 8px;
+}
+
+h1 {
+    color: red;
+}
